@@ -1,0 +1,9 @@
+Clothing,CyclingShorts,999,379,Puma
+Footwear,RunningShoes,999,499,Nike
+Footwear,TrekkingShoes,699,267,Puma
+Clothing,SportsBra,220,210,Nike
+Footwear,Flipflops,430,430,Puma
+Clothing,DrifitShorts,1199,479,Nike
+Footwear,CasualShoes,699,349,Puma
+Footwear,Flipflops,1724,950,Nike
+Clothing,PrintedWomensShirt,2299,910,Nike
